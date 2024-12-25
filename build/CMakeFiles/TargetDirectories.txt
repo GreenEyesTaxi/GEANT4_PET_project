@@ -1,0 +1,8 @@
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/exampleB1.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/B1.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/edit_cache.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/rebuild_cache.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/list_install_components.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/install.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/install/local.dir
+/home/polina/GEANT4/geant4-v11.1.3/examples/MYcryTRY/build/CMakeFiles/install/strip.dir
